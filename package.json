@@ -1,0 +1,22 @@
+{
+  "name": "garage-sales-api-v2",
+  "version": "1.0.0",
+  "description": "Express-SqlDatabase backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlando-dev-code/garage-sales-api-v2.git"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "Sito, Orlan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlando-dev-code/garage-sales-api-v2/issues"
+  },
+  "homepage": "https://github.com/orlando-dev-code/garage-sales-api-v2#readme"
+}
